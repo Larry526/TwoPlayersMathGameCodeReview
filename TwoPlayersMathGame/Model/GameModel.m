@@ -25,7 +25,7 @@
     self.randomNum1 = (NSInteger) arc4random_uniform(20) + 1;
     self.randomNum2 = (NSInteger) arc4random_uniform(20) + 1;
     
-    self.answerNum = self.randomNum1 + self.randomNum1;
+    self.answerNum = self.randomNum1 + self.randomNum2;
 
     
 }
