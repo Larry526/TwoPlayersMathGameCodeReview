@@ -75,6 +75,8 @@
 		05E234BC1FB0E9C2006FDE3D /* Support */ = {
 			isa = PBXGroup;
 			children = (
+				05E2349A1FB0E2E7006FDE3D /* AppDelegate.h */,
+				05E2349B1FB0E2E7006FDE3D /* AppDelegate.m */,
 				05E234A31FB0E2E7006FDE3D /* Assets.xcassets */,
 				05E234A81FB0E2E7006FDE3D /* Info.plist */,
 				05E234A91FB0E2E7006FDE3D /* main.m */,
@@ -87,8 +89,6 @@
 			children = (
 				05E2349D1FB0E2E7006FDE3D /* ViewController.h */,
 				05E2349E1FB0E2E7006FDE3D /* ViewController.m */,
-				05E2349A1FB0E2E7006FDE3D /* AppDelegate.h */,
-				05E2349B1FB0E2E7006FDE3D /* AppDelegate.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
